@@ -19,6 +19,14 @@ npm run build
 ```
 npm run lint
 ```
-
+### To Run The API
+json-server --watch db.json --port 2000
+```
+###Description 
+Handling:
+-CRUD operations (Add student-Delete student-Update Student details)
+-Routing
+-Bootstrap for styling
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
